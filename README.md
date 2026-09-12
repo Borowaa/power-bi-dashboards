@@ -3,6 +3,8 @@
 A one-page Power BI report on the Steam game market, built on a snapshot of **89,618 Steam games from March 2025**.
 The report itself is in Polish.
 
+![Steam market dashboard](docs/report.png)
+
 ## What the report shows
 
 - **Headline figures** — total number of games, total number of user reviews, share of positive reviews
